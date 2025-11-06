@@ -13,8 +13,10 @@ The findings suggest that agricultural futures have become not only mechanisms f
 
 ## repository
 
-`**.R`: main R workflow files
+`**.R`: main R files for text analysis
 
-`brief_chn.pdf`: CHN brief document 
+`china_future.pdf`: ENG manuscript of research report 
 
-`graph_output/`: graph files, including figures in brief and maps
+`policy/`: policy documents, raw and translated, in `.md` formats
+
+`supplement/`: supplementaries, including figures and data extracted from policy documents 
